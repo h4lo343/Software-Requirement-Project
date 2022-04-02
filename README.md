@@ -15,6 +15,13 @@ Ze Xin Edward Lin: zexinedwardl@student.unimelb.edu.au
 
 This repository contains requirement analysis and designs for software that will manage the information needed for caluclating factors in ACDS audits.
 
+# Changelog
+
+| Date       | Changes Implemented                                                                    |
+| :--------- | :------------------------------------------------------------------------------------- |
+| 20/03/2022 | <ul><li> Uploaded sprint 1 Confluence files </li><li> Created first release </li></ul> |
+| 2/04/2022  | <ul><li>Adjusted documentation file structure</ul></li>                                |
+
 # Folder Structure
 
 ```
@@ -22,7 +29,7 @@ This repository contains requirement analysis and designs for software that will
  ┣ 📂data samples # All data used as an input for prototypes
  ┣ 📂docs # Documentation files
  ┃ ┣ 📂Resources
- ┃ ┗ 📂Requirements
+ ┃ ┗ 📂Confluence
  ┣ 📂prototypes
  ┃ ┣ 📂high fidelity # high fidelity files (screens, source files and so on)
  ┃ ┗ 📂low fidelity # low fidelity files (screens, mockups and so on)
