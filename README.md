@@ -17,10 +17,11 @@ This repository contains requirement analysis and designs for software that will
 
 # Changelog
 
-| Date       | Changes Implemented                                                                    |
-| :--------- | :------------------------------------------------------------------------------------- |
-| 20/03/2022 | <ul><li> Uploaded sprint 1 Confluence files </li><li> Created first release </li></ul> |
-| 2/04/2022  | <ul><li>Adjusted documentation file structure</ul></li>                                |
+| Date       | Changes Implemented                                                                                           |
+| :--------- | :------------------------------------------------------------------------------------------------------------ |
+| 20/03/2022 | <ul><li> Uploaded sprint 1 Confluence files </li><li> Created first release </li></ul>                        |
+| 02/04/2022 | <ul><li>Adjusted documentation file structure</ul></li>                                                       |
+| 03/04/2022 | <ul><li>Uploaded sprint 2 Confluence files </li><li> Uploaded additional resources and data samples</li></ul> |
 
 # Folder Structure
 
