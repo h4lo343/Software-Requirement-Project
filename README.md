@@ -19,8 +19,9 @@ This repository contains requirement analysis and designs for software that will
 
 | Date       | Changes Implemented                                                                                           |
 | :--------- | :------------------------------------------------------------------------------------------------------------ |
-| 17/05/2022 | <ul><li>Uploaded spint 4 Confluence files</li>                                                                |
-| 26/04/2022 | <ul><li>Uploaded spint 3 Confluence files</li> <li>Uploaded low fidelity prototypes</li></ul>                 |
+| 13/06/2022 | <ul><li>Uploaded final presentation slides and adjusted data sample filenames</li>                            |
+| 17/05/2022 | <ul><li>Uploaded sprint 4 Confluence files</li>                                                               |
+| 26/04/2022 | <ul><li>Uploaded sprint 3 Confluence files</li> <li>Uploaded low fidelity prototypes</li></ul>                |
 | 03/04/2022 | <ul><li>Uploaded sprint 2 Confluence files </li><li> Uploaded additional resources and data samples</li></ul> |
 | 02/04/2022 | <ul><li>Adjusted documentation file structure</ul></li>                                                       |
 | 20/03/2022 | <ul><li> Uploaded sprint 1 Confluence files </li><li> Created first release </li></ul>                        |
